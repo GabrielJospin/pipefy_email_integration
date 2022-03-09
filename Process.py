@@ -14,8 +14,8 @@ import Connection as conn
 ###################################################################################################
 # Como deve ser o banco do Pypefy:                                                                #
 #                                                                                                 #
-# Title                 | Email síntese       | CPF              |                                #
-# "Nome do membro"      | email@Sintese.com.br| XXX.XXX.XXX - XX |                                #
+# Title                 | Email síntese       | CPF              | Setor Selecionado |            #
+# "Nome do membro"      | email@Sintese.com.br| XXX.XXX.XXX - XX | "Nome do setor"                #
 #                                                                                                 #
 ###################################################################################################
 class Process:

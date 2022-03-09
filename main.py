@@ -9,3 +9,5 @@ MEMBROSGRUP = "databases/membros@sintesejr.com.br.csv"
 process = pr(PATH)
 conn.update(process.final, FUTUREPATH)
 conn.update(process.membrosEmail, MEMBROSGRUP)
+
+print("OK, os .csv estão na pasta databases")
